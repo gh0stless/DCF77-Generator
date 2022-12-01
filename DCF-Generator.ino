@@ -33,7 +33,8 @@
 // the output well below regulatory limits.
 
 
-// extended by Andreas Schumm 2021
+// extended by Andreas Schumm (gh0stless) 2021
+
 #include <EEPROM.h>
 #include <Wire.h>
 #include <Adafruit_RGBLCDShield.h>  //für RGB Display Shield
